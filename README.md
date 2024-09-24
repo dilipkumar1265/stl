@@ -27,7 +27,6 @@ Cases
 
 
 
-
 ### Output:
 ![1 stl 1](https://github.com/user-attachments/assets/7b892eb0-f401-4fb4-95f0-4844f2e31eb0)
 ![1 stl 2](https://github.com/user-attachments/assets/e3c0f750-544a-4d08-932d-cd0828f7a308)
